@@ -1,1 +1,9 @@
+#go-button {
+    background-color: ghostwhite;
+    transition: 2s;
+}
 
+#go-button:hover {
+    background-color: cornflowerblue;
+    color: white;
+}
